@@ -31,11 +31,9 @@
 }
 
 .swiper-button-next {
-    right: 150px !important;
     --swiper-theme-color: #5E5873;
 }
 
 .swiper-button-prev {
-    left: 150px !important;
     --swiper-theme-color: #5E5873;
 }
